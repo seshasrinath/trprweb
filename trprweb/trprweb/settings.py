@@ -49,7 +49,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'trprweb.urls'
+ROOT_URLCONF = 'trprweb.trprweb.urls'
 
 TEMPLATES = [
     {
