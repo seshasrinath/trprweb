@@ -1,1 +1,1 @@
-web: gunicorn trprweb.trprweb.wsgi --log-file -
+web: gunicorn trprweb.wsgi --log-file -
